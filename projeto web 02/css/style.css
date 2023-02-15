@@ -1,0 +1,22 @@
+ h1{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(149, 145, 214);
+    text-align: center;
+    padding-bottom: 5px;
+    color: rgb(0, 18, 18);
+    border-radius: 20px;
+ }
+ body{
+    text-align: center;
+    background-color: rgb(68, 79, 79);
+
+ }
+ h2{
+    color: rgb(3, 28, 28);
+    background-color:rgb(145, 141, 224);
+    border-radius: 30px;
+ }
+ p{
+    color: aliceblue;
+ }
+ 
